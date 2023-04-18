@@ -1,7 +1,7 @@
 # technical-discussion
 Sharing ideas around communication 
 
-## Second headign
+## Second 
 * one 
 * two
 
